@@ -66,9 +66,7 @@ Logs capture critical details, including:
 ---
 
 ## Folder Structure
-- **Requirements/**: Documentation of functional and non-functional requirements.
-- **SystemModeling/**: System models, including use case diagrams and architecture diagrams.
-- **ArchitecturalDesign/**: High-level and detailed architectural designs.
+- **Reports**: Contains project reports, including the [Final Report](Reports/FinalReport.pdf) and any supplementary documentation.
 
 ---
 

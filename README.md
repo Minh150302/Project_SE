@@ -66,7 +66,7 @@ Logs capture critical details, including:
 ---
 
 ## Folder Structure
-- **Reports**: Contains project reports, including the [Final Report](Reports/FinalReport.pdf) and any supplementary documentation.
+- **Reports**: Contains project reports, including the [Final Report](Report/Report.pdf) and any supplementary documentation.
 
 ---
 
